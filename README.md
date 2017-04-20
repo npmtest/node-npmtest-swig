@@ -1,4 +1,7 @@
-# test coverage for  [swig (v1.4.2)](https://github.com/paularmstrong/swig)  [![npm package](https://img.shields.io/npm/v/npmtest-swig.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-swig) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-swig.svg)](https://travis-ci.org/npmtest/node-npmtest-swig)
+# npmtest-swig
+
+#### basic test coverage for  [swig (v1.4.2)](https://github.com/paularmstrong/swig)  [![npm package](https://img.shields.io/npm/v/npmtest-swig.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-swig) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-swig.svg)](https://travis-ci.org/npmtest/node-npmtest-swig)
+
 #### A simple, powerful, and extendable templating engine for node.js and browsers, similar to Django, Jinja2, and Twig.
 
 [![NPM](https://nodei.co/npm/swig.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/swig)
